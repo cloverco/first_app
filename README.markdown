@@ -1,3 +1,7 @@
+#this is adrian's first RoR application
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
